@@ -1,0 +1,6 @@
+node_modules
+dist
+.vercel
+.assets-raw
+src/scene/modelData.gen.ts
+dist-single
